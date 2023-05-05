@@ -333,7 +333,7 @@ Terminology {#terms}
     strategies](#strategies){:.termref} used, and experience with
     specific [assistive technologies](#at){:.termref}.
 
-**web content**{:#content}
+CapitalXtends.com{:#About}
 :   Web "content" generally refers to the information in a web page or
     web application, including text, images, forms, sounds, and such.
     More specific definitions are available in the WCAG documents, which
